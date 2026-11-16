@@ -182,9 +182,9 @@ By analyzing sales, customers, products, and inventory, the project provides man
 
 👨‍💻 Project Team
 
+* M Abhiram Karthik — B.Tech, CSE (AI & ML)
 * K Vishwa Teja — B.Tech, Computer Science
 * V Brahmaiah — B.Tech, CSE (AI & ML)
-* M Abhiram Karthik — B.Tech, CSE (AI & ML)
 
 The team focused on SQL analysis, teamwork, and data-driven business insights.
 
